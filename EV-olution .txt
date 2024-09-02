@@ -1,0 +1,9 @@
+CMD
+=> npm create vite@latest
+√ Project name: ... ev-website
+√ Select a framework: » React
+√ Select a variant: » JavaScript + SWC
+
+npm install => install dependencies
+npm run dev
+ 
