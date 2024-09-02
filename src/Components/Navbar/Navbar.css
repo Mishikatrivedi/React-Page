@@ -16,6 +16,7 @@
     list-style: none;
     font-size: 18px;
     gap: 90px;
+    cursor: pointer;
 }
 .nav-contact{
     border-radius: 50px;
